@@ -36,9 +36,13 @@ cd ExpertBuddy-Elearning
 
 cd Frontend
 
+npm install
+
 npm start
 
 cd Backend
+
+npm install
 
 npm start
 
