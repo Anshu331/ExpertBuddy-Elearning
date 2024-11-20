@@ -34,4 +34,12 @@ Follow these steps to get the project running locally:
 git clone https://github.com/Anshu331/ExpertBuddy-Elearning.git
 cd ExpertBuddy-Elearning
 
+cd Frontend
+
+npm start
+
+cd Backend
+
+npm start
+
 
