@@ -3,8 +3,7 @@
 ExpertBuddy is a comprehensive e-learning platform designed to connect experts with learners, providing a seamless educational experience. This project is built with a **Frontend** and **Backend** architecture, making it robust and scalable.
 
 ## Project Repository
-
-[GitHub Repository: ExpertBuddy](https://github.com/Anshu331/ExpertBuddy-Elearning.git)
+(https://github.com/Anshu331/ExpertBuddy-Elearning.git)
 
 ---
 
